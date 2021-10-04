@@ -52,7 +52,7 @@ const Cart = (): JSX.Element => {
         <thead>
           <tr>
             <th aria-label="product image" />
-            <th>PRODUTO</th>
+            <th>PRODUTO </th>
             <th>QTD</th>
             <th>SUBTOTAL</th>
             <th aria-label="delete icon" />
